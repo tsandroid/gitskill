@@ -5,8 +5,6 @@ create a new branch is quick& simple
 
 create a new branch 'feature1'
 
+stash~~~~
 
-hhhhh~~~
-
-
-heoo~~~~
+ooooo888
